@@ -30,4 +30,4 @@ Sample Output 0
 
 N = int(input())
 reversed_number = int(str(N)[::-1])
-print(reversed_numbe
+print(reversed_number) 
